@@ -1,0 +1,9 @@
+[Info]: [Int32] : LogInfo int.
+[Warning] : [Int32] : LogWarning int!
+[Error] : [Int32] : LogError int. Exception int.
+[Info]: [String] : LogInfo string.
+[Warning] : [String] : LogWarning string!
+[Error] : [String] : LogError string. Exception string.
+[Info]: [BankAccount] : LogInfo BankAccount.
+[Warning] : [BankAccount] : LogWarning BankAccount!
+[Error] : [BankAccount] : LogError BankAccount. Exception BankAccount.
